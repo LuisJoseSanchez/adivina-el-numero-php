@@ -2,7 +2,7 @@
 
 Juego realizado en **PHP** en el que el usuario intenta adivinar el número que ha pensado el ordenador.
 
-Tendrás <u>5 intentos</u> para averiguar el número.
+Tendrás <ins>5 intentos</ins> para averiguar el número.
 
 
 
